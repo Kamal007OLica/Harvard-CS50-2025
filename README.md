@@ -3,7 +3,7 @@ This repository contains my solutions, projects, and notes from Harvard's CS50 �
 
 📌 Topics Covered:  
 ✅ C Programming – Memory, pointers, data structures.    
-✅ Algorithms – Sorting, searching, recursion. 
+✅ Algorithms – Sorting, searching, recursion.   
 ✅ Web Development – HTML, CSS, JavaScript, Flask.  
 ✅ SQL & Databases – Data management and querying.  
 ✅ Cybersecurity & Ethics – Secure coding practices.  
