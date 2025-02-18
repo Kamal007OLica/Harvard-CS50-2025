@@ -11,3 +11,5 @@ This repository contains my solutions, projects, and notes from Harvard's CS50 �
 Each project showcases my understanding of core CS concepts and problem-solving skills. Feel free to explore, fork, or contribute! 🚀  
 
 🖥 Course Link: cs50.harvard.edu  
+
+![image](https://github.com/user-attachments/assets/5a90923a-88a1-4ec3-a23b-46cb37ac454a)
