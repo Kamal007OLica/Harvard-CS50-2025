@@ -8,8 +8,6 @@ This repository contains my solutions, projects, and notes from Harvard's CS50 �
 ✅ SQL & Databases – Data management and querying.  
 ✅ Cybersecurity & Ethics – Secure coding practices.  
 
----
-
 Each project showcases my understanding of core CS concepts and problem-solving skills. Feel free to explore, fork, or contribute! 🚀  
 
 🖥 Course Link: cs50.harvard.edu    
