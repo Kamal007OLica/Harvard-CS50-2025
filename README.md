@@ -13,3 +13,5 @@ Each project showcases my understanding of core CS concepts and problem-solving 
 🖥 Course Link: cs50.harvard.edu    
 
 ![image](https://github.com/user-attachments/assets/5a90923a-88a1-4ec3-a23b-46cb37ac454a)
+
+--- 
