@@ -63,7 +63,6 @@ Here’s a glimpse of the problem sets and topics covered:
 
 8. **Final Project**  
    - A capstone project that brings together everything I’ve learned.  
-   - Project: [Your Project Name](#).
 
 ---
 
