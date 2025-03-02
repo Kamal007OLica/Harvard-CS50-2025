@@ -9,8 +9,6 @@ Welcome to my **CS50 2025** repository! This is where I document my journey thro
 ![image](https://github.com/user-attachments/assets/4c098a81-269a-4eea-9685-872f0b917753)
 
 
----
-
 ## **What’s Inside?** 💻
 
 This repository contains my solutions to the **CS50 2025 problem sets** and **final project**, organized by week and topic. Here’s what you’ll find:
