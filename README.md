@@ -87,7 +87,7 @@ The **CS50 Final Project** is the culmination of the course, where I apply every
 
 3. **Contribute**:
    - Found a bug? Open an issue.
-   - Have a better solution? Submit a pull request.
+   - Have a better solution? 
    - Want to share feedback? Start a discussion.
 
 ---
