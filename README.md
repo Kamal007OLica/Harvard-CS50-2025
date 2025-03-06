@@ -86,8 +86,6 @@ The **CS50 Final Project** is the culmination of the course, where I apply every
    - Follow the instructions in each problem set or project to run the code.
 
 3. **Contribute**:
-   - Found a bug? Open an issue.
-   - Have a better solution? 
    - Want to share feedback? Start a discussion.
 
 ---
